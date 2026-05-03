@@ -21,7 +21,6 @@
 | 项目 | 类别 | 清单 | 推荐 | 简介 | 分析 |
 | --- | --- | :---: | :---: | --- | --- |
 | [bytedance / deer-flow](https://github.com/bytedance/deer-flow) ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=social) | 端到端深度研究智能体 | ✓ | ⭐️⭐️⭐️ | 长程 SuperAgent：研究、编码、创作；沙箱与子智能体。 | |
-| [FoundationAgents / OpenManus](https://github.com/FoundationAgents/OpenManus) ![GitHub Repo stars](https://img.shields.io/github/stars/FoundationAgents/OpenManus?style=social) | 工具增强推理与教程脚手架 | | ⭐️⭐️⭐️ | 通用开放智能体框架（范围大于深度研究）。 | |
 | [multi-agent research (Anthropic cookbook)](https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents/prompts) · [Blog](https://www.anthropic.com/engineering/built-multi-agent-research-system) ![GitHub Repo stars](https://img.shields.io/github/stars/anthropics/anthropic-cookbook?style=social) | 工具增强推理与教程脚手架 | | | 多智能体研究的官方模式与示例。 | |
 | [assafelovic / gpt-researcher](https://github.com/assafelovic/gpt-researcher) ![GitHub Repo stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social) | 端到端深度研究智能体 | | | 自主综合研究智能体。 | |
 | [dzhng / deep-research](https://github.com/dzhng/deep-research) ![GitHub Repo stars](https://img.shields.io/github/stars/dzhng/deep-research?style=social) | 端到端深度研究智能体 | ✓ | ⭐️⭐️ | 迭代式网页研究：搜索、抓取、LLM 综合（Aomni）。 | |
