@@ -7,6 +7,7 @@
 | [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959) | [Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | ⭐️⭐️⭐️  |
 | [Deep Research Agents: A Systematic Examination And Roadmap](https://arxiv.org/abs/2506.18096) | [awesome-deep-research-agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) | ⭐️    |
 | [A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications](https://arxiv.org/abs/2506.12594) | [deepresearch](https://github.com/scienceaix/deepresearch) | ⭐️    |
+| [What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification](https://haizhaoyang.github.io/research/autoresearch-survey.html) | [Project page](https://haizhaoyang.github.io/research/autoresearch-survey.html) |       |
 
 ### Resource indexes (Awesome / List)
 
@@ -53,6 +54,8 @@
 | [foreveryh / langgraph-deep-research](https://github.com/foreveryh/langgraph-deep-research) ![GitHub Repo stars](https://img.shields.io/github/stars/foreveryh/langgraph-deep-research?style=social) | Tool-augmented reasoning & tutorial scaffolding | | ⭐️ | LangGraph deep-research workflows. | |
 | [liyuan24 / nanoDeepResearch](https://github.com/liyuan24/nanoDeepResearch) ![GitHub Repo stars](https://img.shields.io/github/stars/liyuan24/nanoDeepResearch?style=social) | End-to-end deep research agent | | ⭐️ | Lightweight deep research toolkit. | |
 | [human-re / Agentic-Reasoning](https://github.com/human-re/Agentic-Reasoning) ![GitHub Repo stars](https://img.shields.io/github/stars/human-re/Agentic-Reasoning?style=social) | Tool-augmented reasoning & tutorial scaffolding | ✓ | ⭐️ | Tool use integrated into LLM reasoning (research line). | |
+| [AutoResearch-Factory / Agon](https://github.com/AutoResearch-Factory/Agon) ![GitHub Repo stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social) | Scientific discovery | | | Autonomous research orchestrator built around reusable prompt loops across more than ten fields. | |
+| [Daviddjddu / Autonumerics](https://github.com/Daviddjddu/Autonumerics) ![GitHub Repo stars](https://img.shields.io/github/stars/Daviddjddu/Autonumerics?style=social) | Scientific discovery | | | Builds and residual-verifies classical numerical PDE solvers from natural-language problems. | |
 
 
 

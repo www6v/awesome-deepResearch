@@ -7,6 +7,7 @@
 | [From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents](https://arxiv.org/abs/2506.18959) | [Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | ⭐️⭐️⭐️ |
 | [Deep Research Agents: A Systematic Examination And Roadmap](https://arxiv.org/abs/2506.18096) | [awesome-deep-research-agent](https://github.com/ai-agents-2030/awesome-deep-research-agent) | ⭐️ |
 | [A Comprehensive Survey of Deep Research: Systems, Methodologies, and Applications](https://arxiv.org/abs/2506.12594) | [deepresearch](https://github.com/scienceaix/deepresearch) | ⭐️ |
+| [What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification](https://haizhaoyang.github.io/research/autoresearch-survey.html) | [项目页](https://haizhaoyang.github.io/research/autoresearch-survey.html) | |
 
 ### 资源索引（Awesome / 清单）
 
@@ -53,6 +54,8 @@
 | [foreveryh / langgraph-deep-research](https://github.com/foreveryh/langgraph-deep-research) ![GitHub Repo stars](https://img.shields.io/github/stars/foreveryh/langgraph-deep-research?style=social) | 工具增强推理与教程脚手架 | | ⭐️ | LangGraph 深度研究工作流。 | |
 | [liyuan24 / nanoDeepResearch](https://github.com/liyuan24/nanoDeepResearch) ![GitHub Repo stars](https://img.shields.io/github/stars/liyuan24/nanoDeepResearch?style=social) | 端到端深度研究智能体 | | ⭐️ | 轻量级深度研究工具包。 | |
 | [human-re / Agentic-Reasoning](https://github.com/human-re/Agentic-Reasoning) ![GitHub Repo stars](https://img.shields.io/github/stars/human-re/Agentic-Reasoning?style=social) | 工具增强推理与教程脚手架 | ✓ | ⭐️ | 将工具使用融入 LLM 推理（研究路线）。 | |
+| [AutoResearch-Factory / Agon](https://github.com/AutoResearch-Factory/Agon) ![GitHub Repo stars](https://img.shields.io/github/stars/AutoResearch-Factory/Agon?style=social) | 科学发现 | | | 基于可复用提示循环的自主研究编排系统，已覆盖十多个研究领域。 | |
+| [Daviddjddu / Autonumerics](https://github.com/Daviddjddu/Autonumerics) ![GitHub Repo stars](https://img.shields.io/github/stars/Daviddjddu/Autonumerics?style=social) | 科学发现 | | | 从自然语言问题构建经典数值 PDE 求解器，并以残差进行验证。 | |
 
 
 
